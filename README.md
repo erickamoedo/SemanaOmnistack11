@@ -19,10 +19,6 @@ https://github.com/rocketseat-education/semana-omnistack-11
 "Graficos para Reactive Native:"
 https://www.npmjs.com/package/react-native-chart-kit
 
-se eu for usar MySQL, preciso usar:
-https://www.udemy.com/course/aplicativo-financeiro-com-react-native/
-https://www.udemy.com/course/react-native-design-de-aplicativos/
-
 FlipCard
 https://github.com/moschan/react-native-flip-card
 
