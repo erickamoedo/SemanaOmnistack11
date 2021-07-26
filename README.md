@@ -31,6 +31,32 @@ https://github.com/cameronbourke/react-native-cardstack
 Page de perfil:<br>
 https://www.youtube.com/watch?v=p4muY3GPc0s
 
+===========
+
+Projetos com figma:
+
+- https://github.com/rocketseat-education/nlw-06-react-native
+- https://www.figma.com/file/0kv33XYjvOgvKGKHBaiR07/GamePlay---NLW-Together?node-id=58913%3A83
+- https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=37%3A394
+
+- Dash dahora
+  https://www.youtube.com/watch?v=RW3Y-k0_L7I
+
+- Grafico
+  https://www.youtube.com/watch?v=7E39zBTcF90
+
+- Splash
+  https://www.youtube.com/watch?v=XHFND34Tx9g
+
+- Cripto LOCO:
+  https://www.youtube.com/watch?v=xBmx2eaozck
+
+- Grafico 2:
+  https://www.youtube.com/watch?v=mN6E6tBYa4s
+
+- Projeto legal:
+  https://www.youtube.com/playlist?list=PLkOyNuxGl9jyhndcnbFcgNM81fZak7Rbw
+
 Comandos
 
 #####
