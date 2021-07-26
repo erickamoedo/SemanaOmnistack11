@@ -32,3 +32,12 @@ Page de perfil:<br>
 https://www.youtube.com/watch?v=p4muY3GPc0s
 
  
+ Comandos
+ #####
+
+ 1| Instala o EXPO de forma global: npm install -g expo-cli
+ 2| Inicia projeto expo com uma pasta: expo init mobile
+ 3| Precisa do yarn instalado para funcionar: npm install -g yarn
+ 4| Iniciar o expo e mandar a simulação para o cel ou emulador: expo start
+ 5| npm install @react-navigation/native ou yarn add @react-navigation/native
+ 6| expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
